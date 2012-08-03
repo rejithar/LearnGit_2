@@ -15,18 +15,18 @@ public class abba1 : MonoBehaviour {
 
 		Debug.Log ("Modified by abba");
 
-
+<<<<<<< HEAD
 		Debug.Log ("Abba changed this >>>>>");
 		Debug.Log ("Abba changed this >>>>>");
 		Debug.Log ("Abba changed this >>>>>");
 		Debug.Log ("Abba changed this >>>>>");
 		
-
+=======
 		Debug.Log ("*************123456789************");
 		Debug.Log ("*************aaaaaa************");
 		Debug.Log ("*************qqqqq3333333333************");
 		Debug.Log ("*************v123llll************");
 
-
+>>>>>>> added image
 	}
 }
