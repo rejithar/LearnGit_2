@@ -11,5 +11,7 @@ public class abba1 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
+		Debug.Log ("modified by rejtha ");
+		
 	}
 }

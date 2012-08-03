@@ -11,5 +11,6 @@ public class rejitha1 : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	 Debug.Log ("Rejitha1");
+		Debug.Log("modified by rjeitha ");
 	}
 }
