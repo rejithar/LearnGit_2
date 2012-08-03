@@ -12,14 +12,13 @@ public class abba1 : MonoBehaviour {
 	void Update () {
 	
 		Debug.Log ("modified by rejtha ");
-<<<<<<< HEAD
+
 		Debug.Log ("Modified by abba");
-=======
-		Debug.Log ("*************123456789************");
-			Debug.Log ("*************aaaaaa************");
-		Debug.Log ("*************qqqqq3333333333************");
-		Debug.Log ("*************v123llll************");
->>>>>>> committing in the same script modified by abba
+
+		Debug.Log ("Abba changed this >>>>>");
+		Debug.Log ("Abba changed this >>>>>");
+		Debug.Log ("Abba changed this >>>>>");
+		Debug.Log ("Abba changed this >>>>>");
 		
 	}
 }
