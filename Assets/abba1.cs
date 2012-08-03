@@ -12,6 +12,7 @@ public class abba1 : MonoBehaviour {
 	void Update () {
 	
 		Debug.Log ("modified by rejtha ");
+		Debug.Log ("Modified by abba");
 		
 	}
 }
